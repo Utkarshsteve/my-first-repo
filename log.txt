@@ -1,0 +1,17 @@
+commit 4b3628a21f1d0bbd9c8419fbee072451aa96e294
+Author: Utkarshsteve <utkarshsteve7@gmail.com>
+Date:   Wed Dec 6 11:36:05 2017 +0530
+
+    added gitignore
+
+commit 264b5970c5302b7969090f7656129dd9425dd7eb
+Author: Utkarshsteve <utkarshsteve7@gmail.com>
+Date:   Tue Dec 5 23:12:28 2017 +0530
+
+    added added two files
+
+commit d28afeddca02b2a95eb404f3ec409d4190c85a10
+Author: Utkarshsteve <utkarshsteve7@gmail.com>
+Date:   Tue Dec 5 23:04:03 2017 +0530
+
+    added readme.txt
